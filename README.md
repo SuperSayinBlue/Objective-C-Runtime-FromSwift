@@ -1,10 +1,6 @@
 # Objective-C-Runtime-FromSwift
 This project showcases a seamless integration between a client application written in Swift and a dynamic library (dylib) containing Objective-C functions. The goal is to provide developers with a clear example of how to dynamically link and call functions from a dylib at runtime within a Swift application.
 
-# Dynamic Swift Client and Obj-C Dylib Interaction
-
-This project showcases a seamless integration between a client application written in Swift and a dynamic library (dylib) containing Objective-C functions. The goal is to provide developers with a clear example of how to dynamically link and call functions from a dylib at runtime within a Swift application.
-
 ## Project Overview
 
 1. **Client Project :** The client application is a Swift project that demonstrates the process of interacting with a dynamic library at runtime using bridging headers.
